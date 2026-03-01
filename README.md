@@ -18,4 +18,4 @@ This project monitors water levels (Low, Medium, High) using a water sensor and 
 
 ## Author
 ALHASSAN MOHAMMED KHIDIR 
-# Arduino-Automatic-Water-Level-Controller" 
+# Arduino-Automatic-Water-Level-Controller
