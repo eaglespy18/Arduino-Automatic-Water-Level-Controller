@@ -17,4 +17,5 @@ This project monitors water levels (Low, Medium, High) using a water sensor and 
 - Green LED → High water
 
 ## Author
-Your Name"# Arduino-Automatic-Water-Level-Controller" 
+ALHASSAN MOHAMMED KHIDIR 
+# Arduino-Automatic-Water-Level-Controller" 
